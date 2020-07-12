@@ -1,3 +1,5 @@
 # Blog-v1
 
-Adding a database soon!
+To-do:
+1. Add mongodb atlas database.
+2. Deploy with heroku.
